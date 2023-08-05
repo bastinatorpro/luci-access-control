@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+
+"PO-Revision-Date: 2023-08-06 23:53+0000\n"
+"Last-Translator: GMF <gmf@gmail.com>\n"
+"Language-Team: Ukrainian <https://hosted.weblate.org/projects/openwrt/"
+"luciapplicationsadblock/uk/>\n"
+"Language: uk\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.15.1-dev\n"
+
+msgid "Access Control"
+msgstr "Управління доступом"
+
+msgid ""
+"Access Control allows you to manage Internet access for specific local hosts."
+"<br/> Each rule defines a device to block from having Internet access. The "
+"rules may be active permanently or during certain times of the day.<br/> The "
+"rules may also be restricted to specific days of the week.<br/> Any device "
+"that is blocked may obtain a ticket suspending the restriction for a "
+"specified time."
+msgstr ""
+"Контроль доступу дозволяє керувати доступом до Інтернету для певних локальних хостів."
+"<br/> Кожне правило вказує пристрій для блокування доступу до Інтернету."
+"Правила можуть блокувати доступ постійно або в певний час доби.<br/>"
+"Також правила можуть обмежувати доступ по певним дням тижня.<br/> Будь-який пристрій, "
+"який був заблокований, може отримати тимчасовий доступ який відмінить "
+"блокування на певний час."
+
+msgid "Client Rules"
+msgstr "Клієнтські правила"
+
+msgid "End time"
+msgstr "Час закінчення"
+
+msgid "General settings"
+msgstr "Загальні налаштування"
+
+msgid "Internet Access Control"
+msgstr "Контроль доступу до Інтернету"
+
+msgid "Issue"
+msgstr "Надати тимчасовий доступ"
+
+msgid "MAC address"
+msgstr "MAC адреса"
+
+msgid "MTWTFSS"
+msgstr "ПВСЧПСН"
+
+msgid "Must be set to enable the internet access blocking"
+msgstr "Для блокування доступу до Інтернету має бути включеним"
+
+msgid "Start time"
+msgstr "Час початку"
+
+msgid "Ticket"
+msgstr "Тимчасовий доступ"
+
+msgid "Ticket time [min]"
+msgstr "Час доступу [хв]"
+
+msgid "Time granted when a ticket is issued"
+msgstr "Час який буде надано при видачі тимчасового доступу"
+
+msgid "Time value must be HH:MM or empty"
+msgstr "Значення часу має бути ГГ:ХХ або пустим"
